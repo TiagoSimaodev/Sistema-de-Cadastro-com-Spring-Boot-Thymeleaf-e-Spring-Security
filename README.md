@@ -59,3 +59,42 @@ Este projeto é uma aplicação web completa desenvolvida com **Spring Boot**, s
 
 ## 📂 Estrutura do Projeto (Arquitetura MVC)
 
+src/
+└── main/
+├── java/
+│ └── com.seuprojeto/
+│ ├── controller/
+│ ├── model/
+│ ├── repository/
+│ ├── service/
+│ └── security/
+└── resources/
+├── static/
+├── templates/
+└── application.properties
+
+
+## 🧪 Validações
+
+- Backend: Anotações do Spring para validações de campos obrigatórios, formatos e tamanhos.
+- Frontend: JavaScript para feedback imediato ao usuário.
+
+## 🖥️ Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/seurepositorio.git
+execute a aplicação com: ./mvnw spring-boot:run
+
+ Status do Projeto
+ 
+🚧 Em constante evolução: novos recursos e melhorias estão sendo aplicados com base no aprendizado contínuo.
+
+
+
+👨‍💻 Autor
+Tiago Simão
+Desenvolvedor Java Full Stack
+📧 tiagosimaorodri123@gmail.com
+GitHub: https://github.com/TiagoSimaodev | LinkedIn: https://www.linkedin.com/in/tiago-simao-685015193/
+
