@@ -95,6 +95,10 @@ execute a aplicação com: ./mvnw spring-boot:run
 👨‍💻 Autor
 Tiago Simão
 Desenvolvedor Java Full Stack
+
 📧 tiagosimaorodri123@gmail.com
-GitHub: https://github.com/TiagoSimaodev | LinkedIn: https://www.linkedin.com/in/tiago-simao-685015193/
+
+GitHub: https://github.com/TiagoSimaodev 
+
+LinkedIn: https://www.linkedin.com/in/tiago-simao-685015193/
 
